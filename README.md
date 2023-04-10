@@ -1,2 +1,31 @@
-# RubyonRails7_Docker_Environment
-Ruby on Rails7をDocker環境で構築する
+# RubyonRails7_Docker_Environment Ruby on Rails7 を Docker 環境で構築する
+
+<h4> 作成日時 2023 年 04 月 05 日(水) </h4>
+
+<h3> 目次 </h3>
+
+1. 使用バージョン
+2. 実行順序
+3. 参考資料
+
+<h3>
+	<dl>
+		<dt>2023月04月10日(月)</dt>
+		<dd>Ruby On Rails7のDocker環境構築用リポジトリ</dd>
+	</dl>
+</h3>
+
+<h2>使用バージョン</h2>
+
+<h2>実行手順</h2>
+
+<h2>100．参考文献・参考資料・参考サイト・引用サイト</h2>
+
+(WEB ページ)
+
+- [文字列](URL) [日付:2022/11/26]
+- [文字列](URL) [日付:2022/11/26]
+
+(本)
+
+- [Python で始める OpenCV4 プログラミング,株式会社カットシステム,北山直洋]()[2019 年]
